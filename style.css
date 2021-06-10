@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: Cannu;
-    src: url("/Ressources/Fonts/CannuRegular-axgPE.ttf");
+    src: url("./Ressources/Fonts/CannuRegular-axgPE.ttf");
 }
 
 body
@@ -472,21 +472,21 @@ body
 
 .entree1 .picture .img
 {
-    background-image: url("/Ressources/Images/Entrée1.jpeg");
+    background-image: url("./Ressources/Images/Entrée1.jpeg");
     background-size: cover;
     background-position: center;
 }
 
 .entree2 .picture .img
 {
-    background-image: url("/Ressources/Images/Entrée2.jpeg");
+    background-image: url("./Ressources/Images/Entrée2.jpeg");
     background-size: cover;
     background-position: center;
 }
 
 .entree3 .picture .img
 {
-    background-image: url("/Ressources/Images/Entrée3.jpeg");
+    background-image: url("./Ressources/Images/Entrée3.jpeg");
     background-size: cover;
     background-position: center;
 }
@@ -495,21 +495,21 @@ body
 
 .plat1 .picture .img
 {
-    background-image: url("/Ressources/Images/Plat1.jpeg");
+    background-image: url("./Ressources/Images/Plat1.jpeg");
     background-size: cover;
     background-position: center;
 }
 
 .plat2 .picture .img
 {
-    background-image: url("/Ressources/Images/Plat2.jpeg");
+    background-image: url("./Ressources/Images/Plat2.jpeg");
     background-size: cover;
     background-position: center;
 }
 
 .plat3 .picture .img
 {
-    background-image: url("/Ressources/Images/Plat3.jpeg");
+    background-image: url("./Ressources/Images/Plat3.jpeg");
     background-size: cover;
     background-position: center;
 }
@@ -518,21 +518,21 @@ body
 
 .dessert1 .picture .img
 {
-    background-image: url("/Ressources/Images/Dessert1.jpeg");
+    background-image: url("./Ressources/Images/Dessert1.jpeg");
     background-size: cover;
     background-position: center;
 }
 
 .dessert2 .picture .img
 {
-    background-image: url("/Ressources/Images/Dessert2.jpeg");
+    background-image: url("./Ressources/Images/Dessert2.jpeg");
     background-size: cover;
     background-position: center;
 }
 
 .dessert3 .picture .img
 {
-    background-image: url("/Ressources/Images/Dessert3.jpeg");
+    background-image: url("./Ressources/Images/Dessert3.jpeg");
     background-size: cover;
     background-position: center;
 }
